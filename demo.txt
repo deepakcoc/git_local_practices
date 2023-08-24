@@ -1,8 +1,9 @@
 hiiii i am using git
-i am using file from branch
-i am using again git hub
-<<<<<<< .minehiii i am using again git hub
+hiiii i am using  new version of github
+deepak
+<<<<<<< .mine<<<<<<< .minehiii i am using again git hub
 ==============hiii i am using file from branch....
 >>>>>>> .theirs>>>>>>> .theirs
 deepak
 hiiii i am using  new version of github
+=======>>>>>>> .theirs
