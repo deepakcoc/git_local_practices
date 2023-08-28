@@ -13,7 +13,8 @@ dkdjfjfjfnfmnjffjfjnv deeeeeeepak kumar yadav
 =======
 <<<<<<< HEAD
 deepak kumar yadav
-=======
 hello i am using git rebase
->>>>>>> 5e73ac0 (resloving from master)
+i am using rebase command
+<<<<<<< .mine>>>>>>> 5e73ac0 (resloving from master)
+=======>>>>>>> .theirs
 
